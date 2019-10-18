@@ -7,7 +7,7 @@
 
 ## My Blog
 
-Think ML - https://goodboyanush.github.io/
+https://medium.com/@vyshnavivennakota/ml-day-to-day-applications-eef43f571d33
 
 ## Course Overview
 

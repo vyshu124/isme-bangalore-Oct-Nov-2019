@@ -7,7 +7,7 @@
 
 ## My Blog
 
-https://medium.com/@vyshnavivennakota/ml-day-to-day-applications-eef43f571d33
+https://medium.com/@vyshnavivennakota/difference-between-logistic-and-linear-regression-a6530467dd55
 
 ## Course Overview
 

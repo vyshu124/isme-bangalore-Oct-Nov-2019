@@ -7,6 +7,8 @@
 
 ## My Blog
 
+https://analytics617302128.wordpress.com/?p=22
+
 https://medium.com/@vyshnavivennakota/difference-between-logistic-and-linear-regression-a6530467dd55
 
 ### My code 

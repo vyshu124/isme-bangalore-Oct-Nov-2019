@@ -11,6 +11,8 @@ https://analytics617302128.wordpress.com/?p=22
 
 https://medium.com/@vyshnavivennakota/difference-between-logistic-and-linear-regression-a6530467dd55
 
+https://medium.com/@vyshnavivennakota/difference-between-regression-and-neural-network-9d315fad3bfa
+
 ### My code 
 
 http://localhost:8888/notebooks/Downloads/Untitled.ipynb?kernel_name=python3

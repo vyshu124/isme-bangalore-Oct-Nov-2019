@@ -13,6 +13,8 @@ https://medium.com/@vyshnavivennakota/difference-between-logistic-and-linear-reg
 
 https://medium.com/@vyshnavivennakota/difference-between-regression-and-neural-network-9d315fad3bfa
 
+https://medium.com/@vyshnavivennakota/svm-in-kernel-trick-decision-trees-and-time-series-in-ml-9e75dffbdac3
+
 ### My code 
 
 http://localhost:8888/notebooks/Downloads/Untitled.ipynb?kernel_name=python3
